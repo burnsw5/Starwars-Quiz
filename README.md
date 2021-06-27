@@ -1,4 +1,4 @@
-This is a quiz made with javascript.
+This is a StarWars quiz made with javascript.
 
 When the button "start" is clicked a timer starts counting down.
 When the wrong answer is selected the time decreases in time.
